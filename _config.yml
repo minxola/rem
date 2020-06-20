@@ -1,13 +1,13 @@
 # Site
-name: "Rosmer Minchola"
-title: "Rosmer Minchola"
-description: "Blog e intereses"
-meta_description: "Blog de Rosmer Minchola"
+name: "Minxola"
+title: "Minxola Post"
+description: "Some guides about frontend and web design"
+meta_description: "Web design world"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'wowthemesnet@gmail.com'
+email: 'reminxola69@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
@@ -15,13 +15,13 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Minxola
+    display_name: Rem
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: reminxola69@gmail.com
+    web: https://dev.texellabs.com
+    twitter: https://twitter.com/texellabs
+    description: "I am learning about web technologies"
   john:
     name: John
     display_name: John
