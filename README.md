@@ -1,6 +1,6 @@
 # Rosmer Minchola - Blog personal
 
-[Facebook](https://www.facebook.com/minxola) &nbsp; | &nbsp; [Instagram](https://instagram.com/remminxola) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-affiliates-bootstrap-jekyll/) &nbsp; | &nbsp; [More Jekyll Themes](https://bootstrapstarter.com/template-categories/jekyll/)
+[Facebook](https://www.facebook.com/minxola) &nbsp; | &nbsp; [Instagram](https://instagram.com/minxola.pe) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-affiliates-bootstrap-jekyll/) &nbsp; | &nbsp; [More Jekyll Themes](https://bootstrapstarter.com/template-categories/jekyll/)
 
 ### Copyright
 
